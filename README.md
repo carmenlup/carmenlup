@@ -33,9 +33,9 @@
 
 ### :fire: My Stats:
 <p align="center">
-  <a href="https://github.com/carmenlup"><img alt="Carmen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carmenlup&custom_title=Carmen's%20Github%20Stats&count_private=true&show_icons=true&theme=merko" height="192px" />
+  <a href="https://github.com/carmenlup"><img alt="Carmen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carmenlup&custom_title=Carmen's%20Github%20Stats&count_private=true&show_icons=true&theme=merko" height="192px" width="49.5%"/>
   <a href="https://github.com/carmenlup">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carmenlup&theme=merko" height="192px"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carmenlup&theme=merko" height="192px" width="49.5%"/>
   </a>
 </p>
 <br />
