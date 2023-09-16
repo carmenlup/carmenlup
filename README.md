@@ -35,16 +35,16 @@
 <p align="center">
   <a href="https://github.com/carmenlup"><img alt="Carmen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=carmenlup&custom_title=Carmen's%20Github%20Stats&count_private=true&show_icons=true&theme=merko" height="192px" width="48.5%"/>
   <a href="https://github.com/carmenlup">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carmenlup&theme=merko" height="192px" width="48.5%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carmenlup&theme=merko" height="192px" width="50.5%"/>
   </a>
 </p>
 <br />
 
 <p align="center">
   <a href="https://github.com/carmenlup">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carmenlup&theme=merko" height="218px" width="70.5%" alt="Carmen's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carmenlup&theme=merko" height="218px" width="75.5%" alt="Carmen's GitHub Contribution"/>
   </a>
-  </a><a href="https://github.com/carmenlup"><img alt="Carmen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmenlup&langs_count=8&theme=merko" height="218px" width="25.5%" /></a>
+  </a><a href="https://github.com/carmenlup"><img alt="Carmen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmenlup&langs_count=8&theme=merko" height="218px" width="22.5%" /></a>
 </p>
 
 ![Carmen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=carmenlup&custom_title=Carmen's%20GitHub%20Activity%20Graph&bg_color=0D1117&theme=merko&area=true)
