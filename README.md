@@ -1,4 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=carmenlup)
+<p align="right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/carmenlup/count.svg" />
+</p>
+
 ### Hi there! I’m Carmen 👋
 
 ### :hammer_and_wrench: Languages and Tools:
